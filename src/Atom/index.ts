@@ -13,3 +13,4 @@ export * from "./StatusDot";
 export * from "./Text";
 export * from "./Tooltip";
 export * from "./Kbd";
+export * from "./Badge";
