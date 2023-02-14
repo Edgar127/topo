@@ -1,5 +1,4 @@
 export * from "./Box";
-export * from "./Badge";
 export * from "./Button";
 export * from "./Card";
 export * from "./Divider";
@@ -16,3 +15,4 @@ export * from "./Text";
 export * from "./Tooltip";
 export * from "./Kbd";
 export * from "./Badge";
+export * from "./Alert";
